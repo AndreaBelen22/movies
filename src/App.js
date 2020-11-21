@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import {Switch, Route} from "react-router-dom";
 import About from './pages/About';
 import DiscoverMovies from './pages/DiscoverMovies';
 import HomePage from './pages/HomePage';
-import Link from "react-router-dom"
 import NavBar from "./components/NavBar"
 
 function App() {
